@@ -1,0 +1,21 @@
+{
+  "name": "Gizli Bahçe - Beyaz Sabun Çubuklu Oda Kokusu",
+  "short_name": "Gizli Bahçe",
+  "description": "Beyaz sabun esintisiyle evinize ferahlık getiren premium çubuklu oda kokusu. 100ml - 689 TL",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F3ED",
+  "theme_color": "#7E9F7E",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
