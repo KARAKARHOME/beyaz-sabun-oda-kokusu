@@ -4,16 +4,16 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://gizlibahceodakokusu.com.tr'),
+  metadataBase: new URL('https://beyazsabunodakokusu.com'),
   title: {
-    default: "Beyaz Sabun Çubuklu Oda Kokusu - 100ml Premium",
+    default: "Beyaz Sabun Çubuklu Oda Kokusu - Premium 100ml | 689 TL",
     template: "%s | Beyaz Sabun Çubuklu Oda Kokusu"
   },
   description: "Beyaz sabun esintisiyle evinize ferahlık getiren premium çubuklu oda kokusu. 100ml şişede, 689 TL. Pendik'ten tüm Türkiye'ye hızlı kargo. Premium kalite, uzun süre etkili.",
-  keywords: ["beyaz sabun oda kokusu", "çubuklu oda kokusu", "beyaz sabun çubuklu oda kokusu", "oda kokusu", "ev kokusu", "bambu çubuklu koku", "premium oda kokusu", "beyaz sabun kokusu", "karakar home", "pendik oda kokusu"],
-  authors: [{ name: "Beyaz Sabun Oda Kokusu" }],
-  creator: "Beyaz Sabun Oda Kokusu",
-  publisher: "Beyaz Sabun Oda Kokusu",
+  keywords: ["beyaz sabun oda kokusu", "çubuklu oda kokusu", "beyaz sabun çubuklu oda kokusu", "oda kokusu", "ev kokusu", "bambu çubuklu koku", "premium oda kokusu", "beyaz sabun kokusu", "pendik oda kokusu", "istanbul oda kokusu"],
+  authors: [{ name: "Beyaz Sabun Çubuklu Oda Kokusu" }],
+  creator: "Beyaz Sabun Çubuklu Oda Kokusu",
+  publisher: "Beyaz Sabun Çubuklu Oda Kokusu",
   formatDetection: {
     email: false,
     address: false,
@@ -22,26 +22,24 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'tr_TR',
-    url: 'https://gizlibahceodakokusu.com.tr',
+    url: 'https://beyazsabunodakokusu.com',
     siteName: 'Beyaz Sabun Çubuklu Oda Kokusu',
-    title: 'Beyaz Sabun Çubuklu Oda Kokusu - 100ml Premium',
-    description: 'Beyaz sabun esintisiyle evinize ferahlık getiren premium çubuklu oda kokusu. 100ml şişede, 689 TL. Premium kalite, uzun süre etkili.',
+    title: 'Beyaz Sabun Çubuklu Oda Kokusu - Premium 100ml | 689 TL',
+    description: 'Beyaz sabun esintisiyle evinize ferahlık getiren premium çubuklu oda kokusu. 100ml şişede, 689 TL. Pendik İstanbul\'dan tüm Türkiye\'ye hızlı kargo.',
     images: [
       {
-        url: '/og-image.jpg',
-        width: 1200,
-        height: 630,
+        url: '/Beyaz Sabun Çubuklu Oda Kokusu.webp',
+        width: 800,
+        height: 800,
         alt: 'Beyaz Sabun Çubuklu Oda Kokusu - Premium 100ml',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    site: '@karakarhome',
-    creator: '@karakarhome',
-    title: 'Beyaz Sabun Çubuklu Oda Kokusu - 100ml Premium',
-    description: 'Beyaz sabun esintisiyle evinize ferahlık getiren premium çubuklu oda kokusu. 100ml - 689 TL',
-    images: ['/og-image.jpg'],
+    title: 'Beyaz Sabun Çubuklu Oda Kokusu - Premium 100ml | 689 TL',
+    description: 'Beyaz sabun esintisiyle evinize ferahlık getiren premium çubuklu oda kokusu. Pendik\'ten tüm Türkiye\'ye hızlı kargo.',
+    images: ['/Beyaz Sabun Çubuklu Oda Kokusu.webp'],
   },
   robots: {
     index: true,
@@ -55,7 +53,7 @@ export const metadata: Metadata = {
     },
   },
   alternates: {
-    canonical: 'https://gizlibahceodakokusu.com.tr',
+    canonical: 'https://beyazsabunodakokusu.com',
   },
   verification: {
     google: 'google-site-verification-code',
