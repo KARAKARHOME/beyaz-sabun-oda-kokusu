@@ -4,11 +4,6 @@ import { motion } from 'framer-motion';
 import { Target, Users, Leaf, Sparkles, Award, Heart } from 'lucide-react';
 import Link from 'next/link';
 
-export const metadata = {
-  title: 'Hakkımızda',
-  description: 'Gizli Bahçe beyaz sabun çubuklu oda kokusu ile yaşam alanlarınıza ferahlık getiriyoruz. KARAKAR HOME kalitesi ile Pendik\'ten tüm Türkiye\'ye hizmet veriyoruz.',
-};
-
 export default function HakkimizdaPage() {
   return (
     <div className="pt-20">
