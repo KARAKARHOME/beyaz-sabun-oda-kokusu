@@ -195,7 +195,7 @@ export default function IletisimPage() {
                     href="https://www.karakarhome.com.tr/beyaz-sabun-oda-kokusu/"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="block text-center px-8 py-4 bg-white text-sage-700 rounded-full font-bold text-lg hover:bg-cream-50 transition-all duration-300 shadow-lg hover:shadow-xl hover:scale-105"
+                    className="block text-center px-8 py-4 bg-sage-600 text-white rounded-full font-bold text-lg hover:bg-sage-700 transition-all duration-300 shadow-lg hover:shadow-xl hover:scale-105"
                   >
                     Sipariş Ver - 689 TL
                   </a>

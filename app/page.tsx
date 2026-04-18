@@ -380,7 +380,7 @@ export default function HomePage() {
                 href="https://www.karakarhome.com.tr/beyaz-sabun-oda-kokusu/"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center justify-center px-8 py-4 text-lg font-semibold text-sage-700 bg-white rounded-full hover:bg-cream-50 transition-all duration-300 hover:shadow-2xl hover:scale-105"
+                className="inline-flex items-center justify-center px-8 py-4 text-lg font-semibold text-white bg-sage-600 rounded-full hover:bg-sage-700 transition-all duration-300 hover:shadow-2xl hover:scale-105"
               >
                 <span className="flex items-center space-x-2">
                   <span>Şimdi Sipariş Ver</span>
