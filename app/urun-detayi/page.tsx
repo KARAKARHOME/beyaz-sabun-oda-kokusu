@@ -19,7 +19,7 @@ export default function UrunDetayiPage() {
               Beyaz Sabun Çubuklu Oda Kokusu
             </h1>
             <p className="text-2xl text-sage-600 mb-4">
-              <Link href="/hakkimizda" className="text-sage-700 hover:text-sage-800 font-bold underline decoration-sage-400 hover:decoration-sage-600 transition-colors" title="Hakkımızda">KARAKAR HOME</Link> - Premium 100ml
+              <Link href="/" className="text-sage-700 hover:text-sage-800 font-bold underline decoration-sage-400 hover:decoration-sage-600 transition-colors" title="Ana Sayfa">Beyaz Sabun Oda Kokusu</Link> - Premium 100ml
             </p>
             <div className="flex items-center justify-center space-x-2 text-3xl font-bold text-sage-700">
               <span>689 TL</span>
@@ -83,7 +83,7 @@ export default function UrunDetayiPage() {
                     <div>
                       <h3 className="text-xl font-semibold text-sage-700 mb-2">Kalite Garantisi</h3>
                       <p className="text-sage-600 leading-relaxed">
-                        <strong>KARAKAR HOME</strong> kalitesiyle üretiliyor. Her şişe, titiz kalite kontrolünden geçiyor.
+                        <Link href="/hakkimizda" className="text-sage-700 hover:text-sage-800 font-bold underline decoration-sage-400 hover:decoration-sage-600 transition-colors" title="Hakkımızda">Premium kalite</Link> standartlarıyla üretiliyor. Her şişe, titiz kalite kontrolünden geçiyor.
                       </p>
                     </div>
                   </div>

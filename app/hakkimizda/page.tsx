@@ -24,7 +24,7 @@ export default function HakkimizdaPage() {
               <Link href="/urun-detayi" className="hover:text-sage-600 transition-colors" title="Ürün Detayları">Beyaz Sabun Çubuklu Oda Kokusu</Link> Hikayesi
             </h1>
             <p className="text-xl text-sage-600 max-w-3xl mx-auto leading-relaxed">
-              <Link href="/" className="text-sage-700 hover:text-sage-800 font-bold underline decoration-sage-400 hover:decoration-sage-600 transition-colors" title="Ana Sayfa">KARAKAR HOME</Link> ailesi olarak, yaşam alanlarınıza <em>ferahlık</em> ve <u>huzur</u> taşıyan ürünler geliştiriyoruz.
+              <Link href="/" className="text-sage-700 hover:text-sage-800 font-bold underline decoration-sage-400 hover:decoration-sage-600 transition-colors" title="Ana Sayfa">Beyaz Sabun Oda Kokusu</Link> ailesi olarak, yaşam alanlarınıza <em>ferahlık</em> ve <u>huzur</u> taşıyan ürünler geliştiriyoruz.
             </p>
           </motion.div>
 
@@ -38,7 +38,7 @@ export default function HakkimizdaPage() {
             >
               <h2 className="text-3xl font-display font-bold text-sage-700 mb-6">Markamızın Doğuşu</h2>
               <p className="text-sage-600 leading-relaxed mb-4">
-                İstanbul&apos;un <Link href="/iletisim" className="text-sage-700 hover:text-sage-800 font-semibold underline decoration-sage-400 hover:decoration-sage-600 transition-colors" title="İletişim Bilgileri">Pendik</Link> ilçesinde kurulan KARAKAR HOME, ev tekstili ve dekorasyon sektöründe yılların deneyimini taşıyor. Müşterilerimizin yaşam alanlarını <em>daha güzel</em> hale getirme tutkusuyla yola çıktık.
+                İstanbul&apos;un <Link href="/iletisim" className="text-sage-700 hover:text-sage-800 font-semibold underline decoration-sage-400 hover:decoration-sage-600 transition-colors" title="İletişim Bilgileri">Pendik</Link> ilçesinde <Link href="/" className="text-sage-700 hover:text-sage-800 font-semibold underline decoration-sage-400 hover:decoration-sage-600 transition-colors" title="Ana Sayfa">Beyaz Sabun Oda Kokusu</Link> markamız kuruldu. Ev tekstili ve dekorasyon sektöründe yılların deneyimini taşıyoruz. Müşterilerimizin yaşam alanlarını <em>daha güzel</em> hale getirme tutkusuyla yola çıktık.
               </p>
               <p className="text-sage-600 leading-relaxed mb-4">
                 <Link href="/urun-detayi" className="text-sage-700 hover:text-sage-800 font-semibold underline decoration-sage-400 hover:decoration-sage-600 transition-colors" title="Ürün Detayları">Beyaz Sabun Çubuklu Oda Kokusu</Link>, bu yolculuğun en <u>özel ürünlerinden</u> biri olarak hayat buldu. Beyaz sabun esansının verdiği temizlik hissini, modern difüzör teknolojisiyle birleştirdik.

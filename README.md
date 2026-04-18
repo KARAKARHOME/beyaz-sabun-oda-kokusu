@@ -1,4 +1,4 @@
-# Beyaz Sabun Çubuklu Oda Kokusu - KARAKAR HOME
+# Beyaz Sabun Çubuklu Oda Kokusu
 
 Premium çubuklu oda kokusu web sitesi. Next.js 14, TypeScript, Tailwind CSS ve Framer Motion ile geliştirilmiştir.
 
@@ -53,4 +53,4 @@ npm start
 
 ## Lisans
 
-© 2024 KARAKAR HOME. Tüm hakları saklıdır.
+© 2024 Beyaz Sabun Çubuklu Oda Kokusu. Tüm hakları saklıdır.

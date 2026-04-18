@@ -6,14 +6,14 @@ import Footer from "@/components/Footer";
 export const metadata: Metadata = {
   metadataBase: new URL('https://gizlibahceodakokusu.com.tr'),
   title: {
-    default: "Beyaz Sabun Çubuklu Oda Kokusu - 100ml Premium | KARAKAR HOME",
+    default: "Beyaz Sabun Çubuklu Oda Kokusu - 100ml Premium",
     template: "%s | Beyaz Sabun Çubuklu Oda Kokusu"
   },
-  description: "Beyaz sabun esintisiyle evinize ferahlık getiren premium çubuklu oda kokusu. 100ml şişede, 689 TL. Pendik'ten tüm Türkiye'ye hızlı kargo. KARAKAR HOME kalitesi, uzun süre etkili.",
+  description: "Beyaz sabun esintisiyle evinize ferahlık getiren premium çubuklu oda kokusu. 100ml şişede, 689 TL. Pendik'ten tüm Türkiye'ye hızlı kargo. Premium kalite, uzun süre etkili.",
   keywords: ["beyaz sabun oda kokusu", "çubuklu oda kokusu", "beyaz sabun çubuklu oda kokusu", "oda kokusu", "ev kokusu", "bambu çubuklu koku", "premium oda kokusu", "beyaz sabun kokusu", "karakar home", "pendik oda kokusu"],
-  authors: [{ name: "KARAKAR HOME" }],
-  creator: "KARAKAR HOME",
-  publisher: "KARAKAR HOME",
+  authors: [{ name: "Beyaz Sabun Oda Kokusu" }],
+  creator: "Beyaz Sabun Oda Kokusu",
+  publisher: "Beyaz Sabun Oda Kokusu",
   formatDetection: {
     email: false,
     address: false,
@@ -24,14 +24,14 @@ export const metadata: Metadata = {
     locale: 'tr_TR',
     url: 'https://gizlibahceodakokusu.com.tr',
     siteName: 'Beyaz Sabun Çubuklu Oda Kokusu',
-    title: 'Beyaz Sabun Çubuklu Oda Kokusu - 100ml Premium | KARAKAR HOME',
-    description: 'Beyaz sabun esintisiyle evinize ferahlık getiren premium çubuklu oda kokusu. 100ml şişede, 689 TL. KARAKAR HOME kalitesi, uzun süre etkili.',
+    title: 'Beyaz Sabun Çubuklu Oda Kokusu - 100ml Premium',
+    description: 'Beyaz sabun esintisiyle evinize ferahlık getiren premium çubuklu oda kokusu. 100ml şişede, 689 TL. Premium kalite, uzun süre etkili.',
     images: [
       {
         url: '/og-image.jpg',
         width: 1200,
         height: 630,
-        alt: 'Beyaz Sabun Çubuklu Oda Kokusu - KARAKAR HOME',
+        alt: 'Beyaz Sabun Çubuklu Oda Kokusu - Premium 100ml',
       },
     ],
   },
