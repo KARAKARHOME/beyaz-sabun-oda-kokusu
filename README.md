@@ -1,4 +1,4 @@
-# Gizli Bahçe - Beyaz Sabun Çubuklu Oda Kokusu
+# Beyaz Sabun Çubuklu Oda Kokusu - KARAKAR HOME
 
 Premium çubuklu oda kokusu web sitesi. Next.js 14, TypeScript, Tailwind CSS ve Framer Motion ile geliştirilmiştir.
 

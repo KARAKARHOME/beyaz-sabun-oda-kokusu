@@ -228,6 +228,9 @@ export default function HomePage() {
               className="bg-white p-8 rounded-2xl shadow-lg"
             >
               <h3 className="text-2xl font-semibold text-sage-700 mb-4">Kullanım Alanları</h3>
+              <p className="text-sage-600 mb-4">
+                <Link href="/urun-detayi" className="text-sage-700 hover:text-sage-800 font-semibold underline decoration-sage-400 hover:decoration-sage-600 transition-colors" title="Detaylı Kullanım Talimatları">Beyaz Sabun Çubuklu Oda Kokusu</Link>&apos;nu farklı mekanlarda kullanabilirsiniz:
+              </p>
               <div className="overflow-x-auto">
                 <table className="w-full">
                   <thead>
@@ -412,7 +415,7 @@ export default function HomePage() {
           <div className="max-w-3xl mx-auto space-y-6">
             {[
               {
-                question: 'Gizli Bahçe ne kadar süre dayanır?',
+                question: 'Beyaz Sabun Çubuklu Oda Kokusu ne kadar süre dayanır?',
                 answer: 'Kullanım koşullarına bağlı olarak 4-6 hafta arası etkili kalır. Çubuk sayısını azaltarak süreyi uzatabilirsiniz.'
               },
               {
@@ -441,6 +444,18 @@ export default function HomePage() {
               </motion.div>
             ))}
           </div>
+
+          <motion.div
+            initial={{ opacity: 0, y: 30 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.8 }}
+            className="text-center mt-12"
+          >
+            <p className="text-sage-600 mb-6">
+              Daha fazla bilgi için <Link href="/urun-detayi" className="text-sage-700 hover:text-sage-800 font-semibold underline decoration-sage-400 hover:decoration-sage-600 transition-colors" title="Ürün Detayları">ürün detayları</Link> sayfamızı ziyaret edin veya <Link href="/iletisim" className="text-sage-700 hover:text-sage-800 font-semibold underline decoration-sage-400 hover:decoration-sage-600 transition-colors" title="Bize Ulaşın">bizimle iletişime</Link> geçin.
+            </p>
+          </motion.div>
         </div>
       </section>
     </div>
