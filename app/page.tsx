@@ -370,7 +370,7 @@ export default function HomePage() {
               Evinize Ferahlık Getirin
             </h2>
             <p className="text-xl mb-8 leading-relaxed">
-              <Link href="/urun-detayi" className="text-white hover:text-cream-100 font-bold underline decoration-white/50 hover:decoration-white transition-colors" title="Ürün Detayları">Beyaz Sabun Çubuklu Oda Kokusu</Link> ile yaşam alanlarınız <em>temizlik</em> ve <u>huzur</u> dolu bir atmosfere kavuşuyor. <Link href="/iletisim" className="text-white hover:text-cream-100 font-semibold underline decoration-white/50 hover:decoration-white transition-colors" title="İletişim">Pendik</Link>'ten tüm Türkiye'ye hızlı kargo ile ulaşıyor.
+              <Link href="/urun-detayi" className="text-white hover:text-cream-100 font-bold underline decoration-white/50 hover:decoration-white transition-colors" title="Ürün Detayları">Beyaz Sabun Çubuklu Oda Kokusu</Link> ile yaşam alanlarınız <em>temizlik</em> ve <u>huzur</u> dolu bir atmosfere kavuşuyor. <Link href="/iletisim" className="text-white hover:text-cream-100 font-semibold underline decoration-white/50 hover:decoration-white transition-colors" title="İletişim">Pendik</Link>&apos;ten tüm Türkiye&apos;ye hızlı kargo ile ulaşıyor.
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center space-y-4 sm:space-y-0 sm:space-x-6">
               <a

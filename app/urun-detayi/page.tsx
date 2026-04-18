@@ -260,7 +260,7 @@ export default function UrunDetayiPage() {
             >
               <h2 className="text-3xl font-display font-bold mb-6">Hemen Sipariş Verin</h2>
               <p className="text-xl mb-8 max-w-2xl mx-auto">
-                <Link href="/" className="text-white hover:text-cream-100 font-bold underline decoration-white/50 hover:decoration-white transition-colors" title="Ana Sayfa">Beyaz Sabun Çubuklu Oda Kokusu</Link> ile evinize <em>ferahlık</em> getirin. <Link href="/iletisim" className="text-white hover:text-cream-100 font-semibold underline decoration-white/50 hover:decoration-white transition-colors" title="İletişim">Pendik</Link>'ten tüm Türkiye'ye hızlı kargo.
+                <Link href="/" className="text-white hover:text-cream-100 font-bold underline decoration-white/50 hover:decoration-white transition-colors" title="Ana Sayfa">Beyaz Sabun Çubuklu Oda Kokusu</Link> ile evinize <em>ferahlık</em> getirin. <Link href="/iletisim" className="text-white hover:text-cream-100 font-semibold underline decoration-white/50 hover:decoration-white transition-colors" title="İletişim">Pendik</Link>&apos;ten tüm Türkiye&apos;ye hızlı kargo.
               </p>
               <div className="flex flex-col sm:flex-row items-center justify-center space-y-4 sm:space-y-0 sm:space-x-6">
                 <a

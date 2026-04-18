@@ -38,7 +38,7 @@ export default function HakkimizdaPage() {
             >
               <h2 className="text-3xl font-display font-bold text-sage-700 mb-6">Markamızın Doğuşu</h2>
               <p className="text-sage-600 leading-relaxed mb-4">
-                İstanbul'un <Link href="/iletisim" className="text-sage-700 hover:text-sage-800 font-semibold underline decoration-sage-400 hover:decoration-sage-600 transition-colors" title="İletişim Bilgileri">Pendik</Link> ilçesinde kurulan KARAKAR HOME, ev tekstili ve dekorasyon sektöründe yılların deneyimini taşıyor. Müşterilerimizin yaşam alanlarını <em>daha güzel</em> hale getirme tutkusuyla yola çıktık.
+                İstanbul&apos;un <Link href="/iletisim" className="text-sage-700 hover:text-sage-800 font-semibold underline decoration-sage-400 hover:decoration-sage-600 transition-colors" title="İletişim Bilgileri">Pendik</Link> ilçesinde kurulan KARAKAR HOME, ev tekstili ve dekorasyon sektöründe yılların deneyimini taşıyor. Müşterilerimizin yaşam alanlarını <em>daha güzel</em> hale getirme tutkusuyla yola çıktık.
               </p>
               <p className="text-sage-600 leading-relaxed mb-4">
                 <Link href="/urun-detayi" className="text-sage-700 hover:text-sage-800 font-semibold underline decoration-sage-400 hover:decoration-sage-600 transition-colors" title="Ürün Detayları">Beyaz Sabun Çubuklu Oda Kokusu</Link>, bu yolculuğun en <u>özel ürünlerinden</u> biri olarak hayat buldu. Beyaz sabun esansının verdiği temizlik hissini, modern difüzör teknolojisiyle birleştirdik.

@@ -188,7 +188,7 @@ export default function IletisimPage() {
               <div className="bg-gradient-to-br from-sage-500 to-sage-600 p-8 rounded-2xl shadow-lg text-white">
                 <h2 className="text-2xl font-display font-bold mb-4">Sipariş Vermek İster misiniz?</h2>
                 <p className="mb-6 leading-relaxed">
-                  <Link href="/urun-detayi" className="text-white hover:text-cream-100 font-bold underline decoration-white/50 hover:decoration-white transition-colors" title="Ürün Detayları">Beyaz Sabun Çubuklu Oda Kokusu</Link>'nu hemen sipariş edin. <Link href="/hakkimizda" className="text-white hover:text-cream-100 font-semibold underline decoration-white/50 hover:decoration-white transition-colors" title="Hakkımızda">Pendik</Link>'ten tüm Türkiye'ye <em>hızlı kargo</em>.
+                  <Link href="/urun-detayi" className="text-white hover:text-cream-100 font-bold underline decoration-white/50 hover:decoration-white transition-colors" title="Ürün Detayları">Beyaz Sabun Çubuklu Oda Kokusu</Link>&apos;nu hemen sipariş edin. <Link href="/hakkimizda" className="text-white hover:text-cream-100 font-semibold underline decoration-white/50 hover:decoration-white transition-colors" title="Hakkımızda">Pendik</Link>&apos;ten tüm Türkiye&apos;ye <em>hızlı kargo</em>.
                 </p>
                 <div className="space-y-4">
                   <a
